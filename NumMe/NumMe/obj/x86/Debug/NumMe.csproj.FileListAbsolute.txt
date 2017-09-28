@@ -1,0 +1,5 @@
+/Users/Timor/Projects/NumMe/NumMe/bin/Debug/NumMe.exe
+/Users/Timor/Projects/NumMe/NumMe/bin/Debug/NumMe.pdb
+/Users/Timor/Projects/NumMe/NumMe/obj/x86/Debug/NumMe.csproj.CoreCompileInputs.cache
+/Users/Timor/Projects/NumMe/NumMe/obj/x86/Debug/NumMe.exe
+/Users/Timor/Projects/NumMe/NumMe/obj/x86/Debug/NumMe.pdb
